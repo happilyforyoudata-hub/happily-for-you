@@ -1,0 +1,6 @@
+{
+  "name": "Happily For You",
+  "description": "A refined, cinematic wedding photography portfolio with a clean minimalist aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
